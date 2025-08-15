@@ -4,7 +4,12 @@
         "languages": "Languages",
         "welcome_back": "Welcome back!",
         "choose_an_option": "Choose an option",
-        "logout": "Logout"
+        "logout": "Logout",
+        "welcome_message": "Welcome to Ineffable Hub",
+        "continue": "Continue",
+        "error": "An error occurred, please try again later.",
+        "loading": "Loading...",
+        "crafted_with_love": "Crafted with ❤️ by Ineffable"
     },
     "wallpaper": {
         "categories": "Categories"
