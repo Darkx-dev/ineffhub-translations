@@ -1,23 +1,69 @@
 {
-    "All": "All",
-    "Astronaut": "Astronaut",
-    "languages": "Languages",
+    "common": {
+        "all": "All",
+        "languages": "Languages",
+        "welcome_back": "Welcome back!",
+        "choose_an_option": "Choose an option",
+        "logout": "Logout"
+    },
+    "wallpaper": {
+        "categories": "Categories"
+    },
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "settings": "Settings",
+        "favorites": "Favorites",
+        "guide": "Guide"
+    },
+    "screens": {
+        "favorites": {
+            "title": "Favorite Wallpapers",
+            "empty": "You haven't added any wallpapers to your favorites yet."
+        },
+        "settings": {
+            "title": "Settings",
+            "language": "Language",
+            "dark_mode": "Dark Mode",
+            "current_session_token": "Current Session Token",
+            "generate_token": "Generate Token",
+            "share": "Share",
+            "check_for_updates": "Check for Updates",
+            "privacy_policy": "Privacy Policy",
+            "guide": "Guide"
+        },
+        "about": {
+            "title": "About",
+            "message": "Hey there, I am Ineffable!",
+            "bio": "An electrical engineer with a passion for designing and building stuffs.",
+            "follow_me": "Follow me"
+        }
+    },
+    "social": {
+        "instagram": "Instagram",
+        "telegram": "Telegram",
+        "threads": "Threads",
+        "x_twitter": "X (Twitter)"
+    },
+    "membership": {
+        "join_paid_group": "💬 Join paid membership group"
+    },
     "tiles": {
         "wallpapers": {
             "title": "Wallpapers",
-            "subtitle": "Explore hand picked awesome 4K wallpapers."
+            "subtitle": "Explore hand-picked awesome 4K wallpapers."
         },
         "live_wallpapers": {
             "title": "Live Wallpapers",
-            "subtitle": "Anime based live wallpapers for Home screen and Lock screen."
+            "subtitle": "Anime-based live wallpapers for home screen and lock screen."
         },
         "depth_wallpapers": {
             "title": "Depth Wallpapers",
-            "subtitle": "Get iOS like Depth wallpapers for your Homescreen."
+            "subtitle": "Get iOS-like depth wallpapers for your home screen."
         },
         "widgets": {
             "title": "Widgets",
-            "subtitle": "Get anime based cozy widgets and setups."
+            "subtitle": "Get anime-based cozy widgets and setups."
         },
         "font_modules": {
             "title": "Font Modules",
@@ -25,22 +71,22 @@
         },
         "icon_packs": {
             "title": "Icon Packs",
-            "subtitle": "Download Icon Packs."
+            "subtitle": "Download icon packs."
         },
         "iconify_setups": {
             "title": "Iconify Setups",
-            "subtitle": "Download pre customised setups config"
+            "subtitle": "Download pre-customized setup configs."
         },
         "header_images": {
             "title": "Header Images",
-            "subtitle": "Download header Images for your qs panel."
+            "subtitle": "Download header images for your quick settings panel."
         },
         "fonts": {
             "title": "Fonts",
             "subtitle": "Discover stylish fonts for your device."
         },
         "pfp": {
-            "title": "Pfp",
+            "title": "Profile Picture",
             "subtitle": "Download cool profile pictures for social media."
         },
         "klwp_ui": {
@@ -49,7 +95,7 @@
         },
         "extractor": {
             "title": "Extractor",
-            "subtitle": "Helps you to extract kwgt files from multiple apps."
+            "subtitle": "Helps you extract KWGT files from multiple apps."
         }
     }
 }
