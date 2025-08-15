@@ -1,5 +1,55 @@
 {
-  "All": "All",
-  "Astronaut": "Astronaut",
-  "languages": "Languages"
+    "All": "All",
+    "Astronaut": "Astronaut",
+    "languages": "Languages",
+    "tiles": {
+        "wallpapers": {
+            "title": "Wallpapers",
+            "subtitle": "Explore hand picked awesome 4K wallpapers."
+        },
+        "live_wallpapers": {
+            "title": "Live Wallpapers",
+            "subtitle": "Anime based live wallpapers for Home screen and Lock screen."
+        },
+        "depth_wallpapers": {
+            "title": "Depth Wallpapers",
+            "subtitle": "Get iOS like Depth wallpapers for your Homescreen."
+        },
+        "widgets": {
+            "title": "Widgets",
+            "subtitle": "Get anime based cozy widgets and setups."
+        },
+        "font_modules": {
+            "title": "Font Modules",
+            "subtitle": "Get unique font modules."
+        },
+        "icon_packs": {
+            "title": "Icon Packs",
+            "subtitle": "Download Icon Packs."
+        },
+        "iconify_setups": {
+            "title": "Iconify Setups",
+            "subtitle": "Download pre customised setups config"
+        },
+        "header_images": {
+            "title": "Header Images",
+            "subtitle": "Download header Images for your qs panel."
+        },
+        "fonts": {
+            "title": "Fonts",
+            "subtitle": "Discover stylish fonts for your device."
+        },
+        "pfp": {
+            "title": "Pfp",
+            "subtitle": "Download cool profile pictures for social media."
+        },
+        "klwp_ui": {
+            "title": "KLWP UI",
+            "subtitle": "Explore custom UI setups based on KLWP."
+        },
+        "extractor": {
+            "title": "Extractor",
+            "subtitle": "Helps you to extract kwgt files from multiple apps."
+        }
+    }
 }
