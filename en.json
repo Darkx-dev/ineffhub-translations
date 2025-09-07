@@ -1,6 +1,8 @@
 {
     "common": {
         "all": "All",
+        "restricted_access": "Access Restricted",
+        "token_not_verified": "Your session token is not verified. Please generate and verify your token in the Settings page to access this content.",
         "languages": "Languages",
         "welcome_back": "Welcome back!",
         "choose_an_option": "Choose an option",
@@ -9,7 +11,25 @@
         "continue": "Continue",
         "error": "An error occurred, please try again later.",
         "loading": "Loading...",
-        "crafted_with_love": "Crafted with ❤️ by Ineffable"
+        "crafted_with_love": "Crafted with ❤️ by Ineffable",
+        "go_to_settings": "Go to Settings",
+        "close": "close",
+        "retry": "Retry",
+        "load_more": "Load More",
+        "download": "Download",
+        "username": "Username",
+        "cancle": "Cancle",
+        "save": "Save",
+        "contact": "Contact",
+        "image_not_found": "Image not found",
+        "copied": "Copied"
+    },
+    "success": {
+        "download_success": "Downloaded Successfully!",
+        "saved_to_gallary": "Saved to Gallary"
+    }.
+    "auth": {
+        "log_out_success": "Logged out successfully"
     },
     "wallpaper": {
         "categories": "Categories"
@@ -28,20 +48,51 @@
         },
         "settings": {
             "title": "Settings",
+            "warning": "warning",
+            "warning_message": "Changing the session token may remove your access from the server. Are you sure?",
             "language": "Language",
+            "no_token_to_share": "No session token to share.",
+            "follow_system": "Follow System",
             "dark_mode": "Dark Mode",
             "current_session_token": "Current Session Token",
             "generate_token": "Generate Token",
             "share": "Share",
             "check_for_updates": "Check for Updates",
-            "privacy_policy": "Privacy Policy",
-            "guide": "Guide"
+            "get_update": "Get Update",
+            "update_found": "Update Found",
+            "update_message": "A new update is available! Check support group.",
+            "up_to_date": "App is up to date",
+            "guide": "Guide",
+            "clear_cache": "Clear Cache",
+            "clear_cache_message": "Clearing cache will delete all cache assets and you have to download again everything.",
+            "ok_delete": "OK, Delete",
+            "cache_cleared_success": "Cache cleared successfully"
         },
         "about": {
             "title": "About",
             "message": "Hey there, I am Ineffable!",
             "bio": "An electrical engineer with a passion for designing and building stuffs.",
             "follow_me": "Follow me"
+        },
+        "header_images": {
+            "title": "Header Images",
+            "errors": {
+                "failed_to_load_images": "Failed to load header images. Please check your internet connection and try again.",
+                "no_image_found": "No Header Images found.",
+                "no_image_available": "No Image Available"
+            }
+        },
+        "profile": {
+            "title": "Profile",
+            "edit_profile": "Edit Profile"
+        },
+        "privacy_policy": {
+            "title": "Privacy Policy",
+            "message": "We value your privacy. This app does not collect, store, or share any personal user data. No analytics or advertising SDKs are integrated into this application. All features run entirely on your device without communicating with external servers (except to check for updates or fetch content).",
+            "graphics_and_assets": "Graphics & Assets",
+            "message2": "All UI elements and app design were created by the developer. Some graphical assets such as icons, illustrations, or wallpapers may originate from various open-source platforms and are used under fair-use or permissive licenses.".
+            "message3": "If you are the rightful owner of any asset used and wish to receive credit or want it removed, please contact me. I will gladly update the app to reflect proper attribution or remove the content as per your request.",
+            "message4": "You can reach me on Telegram at @ineffabletg for any concerns or questions regarding this app or its content."
         }
     },
     "social": {
