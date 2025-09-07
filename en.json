@@ -1,157 +1,145 @@
 {
-    "common": {
-        "all": "All",
-        "restricted_access": "Access Restricted",
-        "token_not_verified": "Your session token is not verified. Please generate and verify your token in the Settings page to access this content.",
-        "languages": "Languages",
-        "welcome_back": "Welcome back!",
-        "choose_an_option": "Choose an option",
-        "logout": "Logout",
-        "welcome_message": "Welcome to Ineffable Hub",
-        "continue": "Continue",
-        "error": "An error occurred, please try again later.",
-        "loading": "Loading...",
-        "crafted_with_love": "Crafted with ❤️ by Ineffable",
-        "go_to_settings": "Go to Settings",
-        "close": "close",
-        "retry": "Retry",
-        "load_more": "Load More",
-        "download": "Download",
-        "username": "Username",
-        "cancle": "Cancle",
-        "save": "Save",
-        "contact": "Contact",
-        "image_not_found": "Image not found",
-        "copied": "Copied"
+  "common": {
+    "all": "All",
+    "restricted_access": "Access Restricted",
+    "token_not_verified": "Your session token is not verified. Please generate and verify your token in the Settings page to access this content.",
+    "languages": "Languages",
+    "welcome_back": "Welcome back!",
+    "choose_an_option": "Choose an option",
+    "logout": "Logout",
+    "welcome_message": "Welcome to Ineffable Hub",
+    "continue": "Continue",
+    "error": "An error occurred, please try again later.",
+    "loading": "Loading...",
+    "crafted_with_love": "Crafted with ❤️ by Ineffable",
+    "go_to_settings": "Go to Settings",
+    "close": "close",
+    "retry": "Retry",
+    "load_more": "Load More",
+    "download": "Download",
+    "username": "Username",
+    "cancle": "Cancle",
+    "save": "Save",
+    "contact": "Contact",
+    "image_not_found": "Image not found",
+    "copied": "Copied"
+  },
+  "success": {
+    "download_success": "Downloaded Successfully!",
+    "saved_to_gallary": "Saved to Gallary"
+  },
+  "auth": {"log_out_success": "Logged out successfully"},
+  "wallpaper": {"categories": "Categories"},
+  "navigation": {
+    "home"     : "Home",
+    "about"    : "About",
+    "settings" : "Settings",
+    "favorites": "Favorites",
+    "guide"    : "Guide"
+  },
+  "screens": {
+    "favorites": {
+      "title": "Favorite Wallpapers",
+      "empty": "You haven't added any wallpapers to your favorites yet."
     },
-    "success": {
-        "download_success": "Downloaded Successfully!",
-        "saved_to_gallary": "Saved to Gallary"
+    "settings": {
+      "title": "Settings",
+      "warning": "warning",
+      "warning_message": "Changing the session token may remove your access from the server. Are you sure?",
+      "language": "Language",
+      "no_token_to_share": "No session token to share.",
+      "follow_system": "Follow System",
+      "dark_mode": "Dark Mode",
+      "current_session_token": "Current Session Token",
+      "generate_token": "Generate Token",
+      "share": "Share",
+      "check_for_updates": "Check for Updates",
+      "get_update": "Get Update",
+      "update_found": "Update Found",
+      "update_message": "A new update is available! Check support group.",
+      "up_to_date": "App is up to date",
+      "guide": "Guide",
+      "clear_cache": "Clear Cache",
+      "clear_cache_message": "Clearing cache will delete all cache assets and you have to download again everything.",
+      "ok_delete": "OK, Delete",
+      "cache_cleared_success": "Cache cleared successfully"
     },
-    "auth": {
-        "log_out_success": "Logged out successfully"
+    "about": {
+      "title": "About",
+      "message": "Hey there, I am Ineffable!",
+      "bio": "An electrical engineer with a passion for designing and building stuffs.",
+      "follow_me": "Follow me"
     },
-    "wallpaper": {
-        "categories": "Categories"
+    "header_images": {
+      "title": "Header Images",
+      "errors": {
+        "failed_to_load_images": "Failed to load header images. Please check your internet connection and try again.",
+        "no_image_found": "No Header Images found.",
+        "no_image_available": "No Image Available"
+      }
     },
-    "navigation": {
-        "home": "Home",
-        "about": "About",
-        "settings": "Settings",
-        "favorites": "Favorites",
-        "guide": "Guide"
-    },
-    "screens": {
-        "favorites": {
-            "title": "Favorite Wallpapers",
-            "empty": "You haven't added any wallpapers to your favorites yet."
-        },
-        "settings": {
-            "title": "Settings",
-            "warning": "warning",
-            "warning_message": "Changing the session token may remove your access from the server. Are you sure?",
-            "language": "Language",
-            "no_token_to_share": "No session token to share.",
-            "follow_system": "Follow System",
-            "dark_mode": "Dark Mode",
-            "current_session_token": "Current Session Token",
-            "generate_token": "Generate Token",
-            "share": "Share",
-            "check_for_updates": "Check for Updates",
-            "get_update": "Get Update",
-            "update_found": "Update Found",
-            "update_message": "A new update is available! Check support group.",
-            "up_to_date": "App is up to date",
-            "guide": "Guide",
-            "clear_cache": "Clear Cache",
-            "clear_cache_message": "Clearing cache will delete all cache assets and you have to download again everything.",
-            "ok_delete": "OK, Delete",
-            "cache_cleared_success": "Cache cleared successfully"
-        },
-        "about": {
-            "title": "About",
-            "message": "Hey there, I am Ineffable!",
-            "bio": "An electrical engineer with a passion for designing and building stuffs.",
-            "follow_me": "Follow me"
-        },
-        "header_images": {
-            "title": "Header Images",
-            "errors": {
-                "failed_to_load_images": "Failed to load header images. Please check your internet connection and try again.",
-                "no_image_found": "No Header Images found.",
-                "no_image_available": "No Image Available"
-            }
-        },
-        "profile": {
-            "title": "Profile",
-            "edit_profile": "Edit Profile"
-        },
-        "privacy_policy": {
-            "title": "Privacy Policy",
-            "message": "We value your privacy. This app does not collect, store, or share any personal user data. No analytics or advertising SDKs are integrated into this application. All features run entirely on your device without communicating with external servers (except to check for updates or fetch content).",
-            "graphics_and_assets": "Graphics & Assets",
-            "message2": "All UI elements and app design were created by the developer. Some graphical assets such as icons, illustrations, or wallpapers may originate from various open-source platforms and are used under fair-use or permissive licenses.",
-            "message3": "If you are the rightful owner of any asset used and wish to receive credit or want it removed, please contact me. I will gladly update the app to reflect proper attribution or remove the content as per your request.",
-            "message4": "You can reach me on Telegram at @ineffabletg for any concerns or questions regarding this app or its content."
-        }
-    },
-    "social": {
-        "instagram": "Instagram",
-        "telegram": "Telegram",
-        "threads": "Threads",
-        "x_twitter": "X (Twitter)"
-    },
-    "membership": {
-        "join_paid_group": "💬 Join paid membership group"
-    },
-    "tiles": {
-        "wallpapers": {
-            "title": "Wallpapers",
-            "subtitle": "Explore hand-picked awesome 4K wallpapers."
-        },
-        "live_wallpapers": {
-            "title": "Live Wallpapers",
-            "subtitle": "Anime-based live wallpapers for home screen and lock screen."
-        },
-        "depth_wallpapers": {
-            "title": "Depth Wallpapers",
-            "subtitle": "Get iOS-like depth wallpapers for your home screen."
-        },
-        "widgets": {
-            "title": "Widgets",
-            "subtitle": "Get anime-based cozy widgets and setups."
-        },
-        "font_modules": {
-            "title": "Font Modules",
-            "subtitle": "Get unique font modules."
-        },
-        "icon_packs": {
-            "title": "Icon Packs",
-            "subtitle": "Download icon packs."
-        },
-        "iconify_setups": {
-            "title": "Iconify Setups",
-            "subtitle": "Download pre-customized setup configs."
-        },
-        "header_images": {
-            "title": "Header Images",
-            "subtitle": "Download header images for your quick settings panel."
-        },
-        "fonts": {
-            "title": "Fonts",
-            "subtitle": "Discover stylish fonts for your device."
-        },
-        "pfp": {
-            "title": "Profile Picture",
-            "subtitle": "Download cool profile pictures for social media."
-        },
-        "klwp_ui": {
-            "title": "KLWP UI",
-            "subtitle": "Explore custom UI setups based on KLWP."
-        },
-        "extractor": {
-            "title": "Extractor",
-            "subtitle": "Helps you extract KWGT files from multiple apps."
-        }
+    "profile": {"title": "Profile", "edit_profile": "Edit Profile"},
+    "privacy_policy": {
+      "title": "Privacy Policy",
+      "message": "We value your privacy. This app does not collect, store, or share any personal user data. No analytics or advertising SDKs are integrated into this application. All features run entirely on your device without communicating with external servers (except to check for updates or fetch content).",
+      "graphics_and_assets": "Graphics & Assets",
+      "message2": "All UI elements and app design were created by the developer. Some graphical assets such as icons, illustrations, or wallpapers may originate from various open-source platforms and are used under fair-use or permissive licenses.",
+      "message3": "If you are the rightful owner of any asset used and wish to receive credit or want it removed, please contact me. I will gladly update the app to reflect proper attribution or remove the content as per your request.",
+      "message4": "You can reach me on Telegram at @ineffabletg for any concerns or questions regarding this app or its content."
     }
+  },
+  "social": {
+    "instagram": "Instagram",
+    "telegram" : "Telegram",
+    "threads"  : "Threads",
+    "x_twitter": "X (Twitter)"
+  },
+  "membership": {"join_paid_group": "💬 Join paid membership group"},
+  "tiles": {
+    "wallpapers": {
+      "title"   : "Wallpapers",
+      "subtitle": "Explore hand-picked awesome 4K wallpapers."
+    },
+    "live_wallpapers": {
+      "title": "Live Wallpapers",
+      "subtitle": "Anime-based live wallpapers for home screen and lock screen."
+    },
+    "depth_wallpapers": {
+      "title"   : "Depth Wallpapers",
+      "subtitle": "Get iOS-like depth wallpapers for your home screen."
+    },
+    "widgets": {
+      "title"   : "Widgets",
+      "subtitle": "Get anime-based cozy widgets and setups."
+    },
+    "font_modules": {
+      "title"   : "Font Modules",
+      "subtitle": "Get unique font modules."
+    },
+    "icon_packs": {"title": "Icon Packs", "subtitle": "Download icon packs."},
+    "iconify_setups": {
+      "title"   : "Iconify Setups",
+      "subtitle": "Download pre-customized setup configs."
+    },
+    "header_images": {
+      "title"   : "Header Images",
+      "subtitle": "Download header images for your quick settings panel."
+    },
+    "fonts": {
+      "title"   : "Fonts",
+      "subtitle": "Discover stylish fonts for your device."
+    },
+    "pfp": {
+      "title"   : "Profile Picture",
+      "subtitle": "Download cool profile pictures for social media."
+    },
+    "klwp_ui": {
+      "title"   : "KLWP UI",
+      "subtitle": "Explore custom UI setups based on KLWP."
+    },
+    "extractor": {
+      "title"   : "Extractor",
+      "subtitle": "Helps you extract KWGT files from multiple apps."
+    }
+  }
 }
