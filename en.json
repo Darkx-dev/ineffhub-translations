@@ -27,7 +27,7 @@
     "success": {
         "download_success": "Downloaded Successfully!",
         "saved_to_gallary": "Saved to Gallary"
-    }.
+    },
     "auth": {
         "log_out_success": "Logged out successfully"
     },
@@ -90,7 +90,7 @@
             "title": "Privacy Policy",
             "message": "We value your privacy. This app does not collect, store, or share any personal user data. No analytics or advertising SDKs are integrated into this application. All features run entirely on your device without communicating with external servers (except to check for updates or fetch content).",
             "graphics_and_assets": "Graphics & Assets",
-            "message2": "All UI elements and app design were created by the developer. Some graphical assets such as icons, illustrations, or wallpapers may originate from various open-source platforms and are used under fair-use or permissive licenses.".
+            "message2": "All UI elements and app design were created by the developer. Some graphical assets such as icons, illustrations, or wallpapers may originate from various open-source platforms and are used under fair-use or permissive licenses.",
             "message3": "If you are the rightful owner of any asset used and wish to receive credit or want it removed, please contact me. I will gladly update the app to reflect proper attribution or remove the content as per your request.",
             "message4": "You can reach me on Telegram at @ineffabletg for any concerns or questions regarding this app or its content."
         }
